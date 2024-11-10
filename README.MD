@@ -5,11 +5,10 @@ The COGNET-MD-X-REG framework is fed curated Multiple Choice Questions (MCQs) fr
 
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Installation
+## Requirements
 
 1. Python 3.9
     * Python Libraries:
@@ -31,7 +30,7 @@ pip install openai pandas requests python-dotenv seaborn matplotlib networkx
 ```
 ```bash
 # Clone the repository
-git clone https://github.com/dimitris1pana/cognet-md-xreq.git
+git clone https://github.com/dimitris1pana/COGNET-MD-XREQ.git
 
 # Navigate to the project directory
 cd yourproject
@@ -40,7 +39,7 @@ cd yourproject
 npm install
 ```
 
-## Methodology
+## Usage
 
 The Multimodal LLM evaluation begins with data processing. Here’s a summary of the process:
 
@@ -105,5 +104,5 @@ If you use this project or reference the COGNET-MD dataset or methodology in you
 
 Dimitrios P. Panagoulias - [panagoulias_d@unipi.gr](mailto:panagoulias_d@unipi.gr)
 
-Project Link: [https://github.com/dimitris1pana/cognet-md-xreq.git](https://github.com/yourusername/cognet-md-xreq.git)
+Project Link: [https://github.com/dimitris1pana/COGNET-MD-XREQ.git](https://github.com/yourusername/cognet-md-xreq.git)
 
