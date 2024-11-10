@@ -1,0 +1,89 @@
+ENTITY TYPE,ENTITY NAME,GROUP
+DISEASE,Ventricular Aneurysm,0
+PATHOLOGY,Myocardial Infarction,0
+CONDITION,Occlusive Coronary Artery Atherosclerosis,0
+DISEASE,Atherosclerosis,1
+BODY_PART,Lower abdominal aortic,1
+DISEASE,Atherosclerotic aneurysm,1
+DISEASE,Diabetes mellitus,1
+DISEASE,Hypercholesterolemia,1
+DISEASE,Hypertension,1
+DISEASE,Malignant neoplasms,1
+DISEASE,Atherosclerotic lesions,1
+DISEASE,Cachexia,1
+DISEASE,Neoplasia,1
+DISEASE,Marfan syndrome,1
+DISEASE,Cystic medial necrosis,1
+BODY_PART,Aortic root,1
+MEDICAL_CONDITION,Dissection,1
+CONDITION,Scleral icterus,2
+CONDITION,Hyperbilirubinemia,2
+PROCESS,Hemolysis,2
+CELL_TYPE,RBC's,2
+SUBSTANCE,Bilirubin,2
+CELL_TYPE,Hepatocytes,2
+CONDITION,Metastases,2
+CONDITION,Biliary obstruction,2
+CONDITION,Jaundice,2
+ORGAN,Liver,2
+DISEASE,Inflammation,3
+CONDITION,Ischemia,3
+EVENT,Cardiac arrest,3
+EVENT,Reperfusion,3
+PHYSICAL_ENTITY,Activated oxygen species,3
+PHYSICAL_ENTITY,Free radical injury,3
+CONDITION,Myocardial ischemic injury,3
+PHYSICAL_ENTITY,Contraction bands,3
+PHYSICAL_ENTITY,Myocardial nuclei,3
+PHYSICAL_ENTITY,Cross striations,3
+CONDITION,Acute inflammatory cell infiltration,3
+BIOLOGICAL_SUBSTANCE,Lipochrome,4
+BIOLOGICAL_SUBSTANCE,Lipofuscin,4
+BIOLOGICAL_PROCESS,Aging,4
+ORGAN,Heart,4
+ORGAN,Liver,4
+DISEASE,malignant melanoma,5
+SYMPTOM,pigmented lesions,5
+PROCEDURE,excised,5
+SYMPTOM,pigmented lesion,5
+SYMPTOM,irregular pigmentation,5
+SYMPTOM,bleeds easily,5
+DISEASE,malignancy,5
+DISEASE,Sjogren syndrome,6
+CELL_TYPE,inflammatory cell infiltrates,6
+CONDITION,acinar atrophy,6
+ORGAN,salivary gland,6
+DISEASE,Chronic Inflammatory Process,7
+CELL_TYPE,Mononuclear Cells,7
+CELL_TYPE,Small Round Lymphocytes,7
+CONDITION,Hemorrhage,7
+CELL_TYPE,Squamous Epithelium,7
+CONDITION,Squamous Metaplasia,7
+MOLECULE,FGF,8
+PROCESS,Angiogenesis,8
+CELL_TYPE,Red blood cells,8
+ANATOMICAL_STRUCTURE,Capillaries,8
+MEDICAL_CONDITION,Myocardial infarction,8
+MOLECULE,VEGF,8
+BIOLOGICAL_PATHWAY,cyclo-oxygenase pathway,9
+CELL_COMPONENT,platelets,9
+COLOR,pink,9
+MEDICAL_CONDITION,thrombus,9
+ORGAN,pulmonary artery,9
+PROTEIN,fibrin,9
+MEDICAL_CONDITION,Fluid collection,10
+BODYPART,Fingertip,10
+SUBSTANCE,Fluid,10
+SUBSTANCE,Cells,10
+SUBSTANCE,Protein,10
+MEDICAL_CONDITION,Blister,10
+DISEASE,Craniopharyngioma,11
+BIOLOGICAL_FEATURE,Squamoid epithelium,11
+ORGANISM_PART,Rathke's pouch remnants,11
+BIOLOGICAL_FEATURE,Cystic spaces,11
+DISEASE,Tumors,11
+ORGANISM_PART,Bone,11
+DISEASE,amyloid deposition,12
+ORGAN,islet of Langerhans,12
+DISEASE,type II diabetes mellitus,12
+HORMONE,insulin,12

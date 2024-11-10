@@ -1,0 +1,449 @@
+ENTITY TYPE,ENTITY NAME,GROUP
+BODY_PART,arm,0
+CONDITION,discoloration,0
+COLOR,purples,0
+COLOR,browns,0
+CONDITION,hyperpigmentation,0
+CONDITION,ecchymoses,0
+CONDITION,gangrenous,0
+CONDITION,desquamated,0
+DISEASE,gangrene,0
+DISEASE,pellagra,0
+DISEASE,congestive heart failure,0
+SYMPTOM,edema,0
+DISEASE,Metastatic carcinoma,0
+BODY_PART,nodules,0
+BODY_PART,masses,0
+ORGAN,Heart,1
+ORGAN_PART,Chambers,1
+ORGAN_PART,Inner wall,1
+ORGAN_PART,Ventricle,1
+PATHOLOGICAL_FORMATION,Thrombus,1
+PATHOLOGICAL_FORMATION,Abnormal growth,1
+FORM,Mesh-like appearance,1
+PATHOLOGICAL_PROCEDURE,Organization,1
+PATHOLOGICAL_PROCEDURE,Stratification,1
+IMAGE_TYPE,Microscopic view,2
+TEST_TYPE,Hematoxylin and eosin staining,2
+SUBJECT_TYPE,Tissue section,2
+SUBJECT_LOCATION,Arterial wall,2
+CONDITION,Calcifications,2
+INTERNAL_STRUCTURE,Internal elastic lamina,2
+INTERNAL_STRUCTURE,Artery lumen,2
+PROPERTY,Blood cells,2
+DISEASE,Atherosclerosis,3
+BIOLOGICAL_TISSUE,Blood vessel,3
+BIOLOGICAL_SUBSTANCE,Lipid,3
+BIOLOGICAL_SUBSTANCE,Cholesterol crystals,3
+BIOLOGICAL_TISSUE,Fibrous tissue,3
+PHYSIOLOGICAL_PROCESS,Calcification,3
+PHYSIOLOGICAL_PROCESS_,Necrosis,3
+ANATOMICAL_STRUCTURE,Intimal layer,3
+DISEASE_PROCESS,Lipid metabolism,3
+BODY_PART,lower limb,4
+DISEASE,tissue damage,4
+CONDITION,necrosis,4
+PROCEDURE,amputation,4
+SYMPTOM,critical lack of blood flow,4
+CONDITION,possible infection,4
+SYMPTOM,coldness,4
+SYMPTOM,numbness,4
+SYMPTOM,pain during walking,4
+CONDITION,absence of palpable pulses,4
+DISEASE,severe peripheral arterial disease,4
+COMPLICATION,its complications,4
+OPTION,Correct Choice:A,4
+ORGAN,Heart,5
+PATHOLOGICAL_CONDITION,MYOCARDIAL_INFARCTION,5
+SYMPTOM,Tissue_Death,5
+CAUSE,Obstructed_Blood_Supply,5
+BIOLOGICAL_STRUCTURE,Kidney tissue,6
+BIOLOGICAL_STRUCTURE,Blood vessel,6
+BIOLOGICAL_STRUCTURE,Smooth muscle layers,6
+SYMPTOM,"""Onion-skin"" appearance",6
+SYMPTOM,Luminal narrowing,6
+DISEASE,Hypertension,6
+BIOLOGICAL_STRUCTURE,Tissue,7
+BIOLOGICAL_STRUCTURE,Mass,7
+BIOLOGICAL_STRUCTURE,Thrombus,7
+BIOLOGICAL_STRUCTURE,Embolus,7
+ANATOMICAL_STRUCTURE,Blood Vessel,7
+BIOLOGICAL_STRUCTURE,Lung Parenchyma,7
+ANATOMICAL_STRUCTURE,Vessel,7
+MEDICAL_CONDITION,Occlusive Process,7
+MEDICAL_CONDITION,Myocardial infarction,8
+MEASUREMENT_UNIT,Centimeters,8
+BODY_PART,Heart tissue,8
+BODY_PART,Muscle tissue,8
+ANATOMICAL_STRUCTURE,Eyes,9
+ANATOMICAL_STRUCTURE,Sclera,9
+ANATOMICAL_STRUCTURE,Lower eyelid,9
+MEDICAL_CONDITION,Jaundice,9
+ORGAN,Liver,9
+SYMPTOM,Discoloration,9
+MEDICAL_CONDITION,Liver dysfunction,9
+ORGAN,lymph node,10
+SUBSTANCE,pigmentation,10
+CELL_TYPE,cells,10
+ITEM,MicroscopicView,11
+BODY_PART,Tissue,11
+CELL_TYPE,Cells,11
+CELL_FEATURE,EosinophilicCytoplasmicInclusions,11
+CELL_STATE,CellularInjury,11
+CELL_STATE,CellularDegeneration,11
+ITEM,Arrows,11
+BEHAVIORAL_CONCEPT,Pathology,11
+BEHAVIORAL_CONCEPT,ClinicalScenario,11
+CELL_TYPE,Muscle fibers,12
+CELL_TYPE,Nuclei,12
+TISSUE_TYPE,Cardiac muscle tissue,12
+MEDICAL_CONDITION,Cardiac arrest,12
+TREATMENT_TYPE,Thrombolytic therapy,12
+CELLULAR_EVENT,Ischemic injury,12
+CELLULAR_EVENT,Reperfusion,12
+ANATOMICAL_STRUCTURE,Myocardium,12
+ANATOMY,Human brain,13
+SYMPTOM,Shrinkage,13
+ANATOMY,Sulci,13
+SYMPTOM,Widening of the sulci,13
+SYMPTOM,Loss of brain tissue volume,13
+DIAGNOSIS,Brain atrophy,13
+ORGAN,bisected organ,14
+CONDITION,hemorrhage,14
+ORGANELLE,Cytoplasm,15
+COLOR,Pink,15
+ORGAN,Liver,15
+CELL,Hepatocytes,15
+COLOR,Blue,15
+ORGANELLE,Nuclei,15
+FEATURE,Nuclear pyknosis,15
+SIGN,Cell death,15
+PROCESS,Necrosis,15
+IMAGING_TECHNIQUE,Histological slide,16
+TREATMENT_PROCEDURE,Skin biopsy,16
+BIOLOGICAL_STRUCTURE,Epidermal layer,16
+BIOLOGICAL_STRUCTURE,Dermis,16
+BIOLOGICAL_STRUCTURE,Vascular structures,16
+BIOLOGICAL_STRUCTURE,Endothelial cells,16
+BIOLOGICAL_STRUCTURE,Red blood cells,16
+PATHOLOGICAL_FORMAT,Atypia,16
+PATHOLOGICAL_FORMAT,Significant inflammation,16
+DIAGNOSIS_ENTITY,Pigmented Lesions,17
+ANATOMICAL_SITE,Skin,17
+SYMPTOM,Raised Lesions,17
+SYMPTOM,Rough Texture Lesions,17
+SYMPTOM,Lesions Color Variation,17
+SYMPTOM_DURATION,10 years,17
+DIAGNOSIS_PROCESS,Appearance Based Diagnosis,17
+SYMPTOM,Increasing Lesion Size,17
+SYMPTOM,Increasing Lesion Number,17
+BODY_PART,skin,18
+SYMPTOM,scattered regular,18
+BODY_PART,hair follicles,18
+DIAGNOSIS,benign characteristics,18
+CELL_TYPE,cells,19
+ORGAN_TYPE,skin,19
+ORGAN_PART,nuclei,19
+ORGAN_PART,cytoplasm,19
+CELL_PROPERTY,hyperchromatic,19
+CELL_PROPERTY,large,19
+CELL_PROPERTY,irregularly shaped,19
+CELL_TYPE,skin structures,19
+DISEASE,skin cancer,19
+COMPARISON,larger,19
+SYMPTOM,irregular pigmentation,19
+SYMPTOM,irregular borders,19
+CHANGE,size changes,19
+DIAGNOSIS_TOOL,skin biopsy,19
+ANALYSIS_TYPE,microscopic view,19
+Infectious_Agent,Mite,20
+ANATOMICAL_STRUCTURE,stratified squamous epithelium,21
+CELL_TYPE,connective tissue cells,21
+CELL_SHAPE,spindle-shaped,21
+PATTERN,interwoven pattern,21
+DIAGNOSIS,benign neoplasm,21
+BODY_PART,skin,21
+ANATOMY,skin,22
+PATHOLOGY,dark round to oval-shaped lesions,22
+CONDITION,immunocompromised state,22
+BODY_PART,skin,23
+DISEASE_SYMPTOM,lesions,23
+DISEASE_SYMPTOM,pedunculated growth,23
+SYMPTOM,Redness,24
+SYMPTOM,Rash,24
+BODY_PART,Cheeks,24
+BODY_PART,Bridge of nose,24
+MEDICAL_CONDITION,Malar rash,24
+MEDICAL_CONDITION,Butterfly rash,24
+SYMPTOM,Reaction to sun exposure,24
+SYMPTOM,Hematuria,24
+SYMPTOM,Proteinuria,24
+SUBJECT,Image,25
+OBJECT,Cells,25
+SUBSTANCE,Antinuclear Antibodies (ANAs),25
+COLOR,Green,25
+ELEMENT,Fluorescent Spots,25
+IMAGE_TYPE,Electron micrograph,26
+CELLULAR_STRUCTURE,Tissue,26
+AREA_TYPE,Extracellular matrix,26
+IMAGE_PROPERTY,Monochromatic,26
+BODY_PART,Tissue,27
+SYMPTOM,Swelling,27
+SYMPTOM,Erythema,27
+SYMPTOM,Edema,27
+CONDITION,Acute Allergic Response,27
+CAUSE,Insect Sting,27
+Image_Element,Viral_Entry_Mechanism,28
+Biological_Components,CD4,28
+Biological_Components,gp120,28
+Biological_Components,gp41,28
+Biological_Components,Chemokine_Receptor,28
+Concept,Virus_Interaction,28
+EXAM_TYPE,Histopathological examination,29
+COLOR,Purple,29
+TISSUE_TYPE,Stromal tissues,29
+TISSUE_TYPE,Connective tissues,29
+ORGAN,Organ,29
+TISSUE_TYPE,Tissue,29
+MEDICAL_CONDITION,Tetany,29
+SIGNAL,Marked hypocalcemia,29
+HEART_CONDITION,Systolic heart murmur,29
+MEDICAL_HISTORY,Recurrent infections,29
+VIRUS,Respiratory syncytial virus,29
+BACTERIA,Candida,29
+DISEASE,Pneumocystis jiroveci pneumonia,29
+DIAGNOSIS,Primary immunodeficiency disorder,29
+FETAL_STRUCTURE,Third and fourth pharyngeal pouches,29
+SYMPTOMS,Constellation of symptoms,29
+Medical Equipment,Microscope,30
+Medical Procedure,Fluorescent Stain,30
+Biological Structure,Cells,30
+Biological Structure,Immunoglobulin G,30
+Biological Structure,IgG Antibodies,30
+Biological Structure,Tissue,30
+Biological Process,Immunologic Processes,30
+ORGAN,Salivary glands,31
+SYMPTOM,Xerostomia,31
+CONDITION,Inflammation,31
+CONDITION,Autoimmune disorder,31
+CELL_STRUCTURE,Glandular tissue,31
+SYMPTOM,Dry mouth,31
+ORGAN,Tissue Biopsy,32
+ORGAN_LAYER,Epithelial Layer,32
+ORGAN_LAYER,Underlying Stroma,32
+ANATOMICAL_PART,Cervical Tissue,32
+PATHOLOGICAL_PROCESS,Cellular Changes,32
+ANATOMICAL_STRUCTURE,Heart_Tissue,33
+MEDICAL_CONDITION,Cellular_Infiltration,33
+BIOLOGICAL_PROCESS,Inflammatory_Response,33
+MEDICAL_EVENT,Myocardial_Infarction,33
+BIOLOGICAL_PROCESS,Tissue_Damage,33
+BIOLOGICAL_PROCESS,Cell_Loss,33
+ANATOMICAL_STRUCTURE,Granulation_Tissue,33
+BIOLOGICAL_PROCESS,Healing_Process,33
+MEDICAL_EVENT,Myocardial_Injury,33
+CELL_TYPE,Macrophages,33
+BIOLOGICAL_PROCESS,Healing_and_Repair,33
+BIOLOGICAL_ENTITY,Growth_Factors,33
+BIOLOGICAL_PROCESS,Proliferation,33
+CELL_TYPE,Fibroblasts,33
+BIOLOGICAL_PROCESS,Synthesis_of_Extracellular_Matrix_Proteins,33
+BODY_PART,lower extremity,34
+BODY_PART,leg,34
+SYMPTOM,swelling,34
+CONDITION,edema,34
+BODY_PART,skin,34
+SYMPTOM,acute injury,34
+SYMPTOM,bruising,34
+SYMPTOM,lacerations,34
+BODY_PART,hair follicles,34
+CONDITION,rash,34
+CONDITION,skin lesions,34
+SYMPTOM,pitting edema,34
+SYMPTOM,indentation mark,34
+ORGAN,gastric mucosa,35
+CONDITION,inflammation,35
+PATHOLOGY,potential damage,35
+ORGAN,stomach lining,35
+ORGAN_PART,gyri,36
+ORGAN_PART,sulci,36
+ORGAN,Tissue,36
+ORGAN,Human brain,36
+CONDITION,Vascular structures,36
+CONDITION,Preserved human organ,36
+CONDITION,External trauma,36
+BODY_PART,Lung,37
+PATHOLOGICAL_FORMATON,Cavities,37
+SUBSTANCE,Pus,37
+SUBSTANCE,Necrotic debris,37
+STATE,Consolidated,37
+COLOR,Discolored,37
+CONDITION,Inflammation,37
+CONDITION,Infection,37
+BIOLOGICAL_STRUCTURE,LungTissue,38
+PATHOLOGY,Fibrosis,38
+PATHOLOGY,GranulomatousDisease,38
+BIOLOGICAL_STRUCTURE,Tissue,38
+PATHOLOGY,GranulomaFormation,38
+PATHOLOGY,ChronicInflammation,38
+PATHOLOGY,Fibrosis,38
+BIOLOGICAL_STRUCTURE,Finger,39
+SYMPTOM,Redness,39
+SYMPTOM,Clear blister,39
+BIOLOGICAL_STRUCTURE,Skin,39
+ORGAN,Liver,40
+DISEASE_SYPMPTOM,nodules,40
+ORGAN_PART,parenchyma,40
+COLOR,white,40
+ORGAN,Liver tissue,40
+BODY_PART,transverse section,41
+IMAGING_TECHNIQUE,MR imaging scan,41
+BODY_PART,left knee joint,41
+BODY_PART,knee joint area,41
+MEDICAL_CONDITION,large mass,41
+BODY_PART,knee joint,41
+BODY_PART,surrounding tissues,41
+ORGAN,breast,42
+CELL_TYPE,histopathological_cells,42
+DISEASE,breast_carcinoma,42
+MEDICAL_PROCEDURE,biopsy,42
+PATHOLOGICAL_FEATURE,abnormal_cell_growth,42
+PATHOLOGICAL_FEATURE,malignant_growth,42
+CELL_ACTION,proliferation,42
+OBJECT,medical specimen,43
+MEASUREMENT_UNIT,cm,43
+ANATOMICAL_STRUCTURE,endometrial cavity,43
+ANATOMICAL_STRUCTURE,uterus,43
+MEDICAL_CONDITION,cervical tumor,43
+CALCULATED_MEASUREMENT,8–9 cm in length,43
+PHYSICAL_OBJECT,ruler,43
+STUDY_METHOD,Microscopic view,44
+CELL_COMPONENT,Cells,44
+BIOLOGICAL_PROCESS,Staining,44
+BIOLOGICAL_PROCESS,Immunohistochemical staining,44
+CHEMICAL,Protein,44
+CELL_COMPONENT,Nuclei of the cells,44
+DISEASE,Breast cancer,44
+CELL_COMPONENT,Nuclear receptor,44
+CHEMICAL,Specific protein,44
+TREATMENT,Treatment in breast cancer,44
+TYPE_SPECIFIC,Correct Choice:E,44
+ORGAN,Lung,45
+CONDITION,PathologicalLesion,45
+FEATURE,Mass,45
+COLOR,Whitish,45
+COLOR,Reddish-brown,45
+MEDICAL_CONDITION,Chronic myelogenous leukemia,46
+GENETIC_ABERRATION,Translocation,46
+CHROMOSOME,Chromosomes 9 and 22,46
+MEDICAL_CONDITION,Philadelphia chromosome,46
+IMAGE_TYPE,Karyotype,46
+MEDICAL_PROCEDURE,Chromosomal abnormalities,46
+Image_CONTENT,SurgicalSpecimen,47
+Tissue_FEATURE,Well-circumscribedRound,47
+Medical_Condition,BenignTumor,47
+Medical_Symptom,SystemicHypertension,47
+Blood_Marker,IncreasedPlasmaRenin,47
+Blood_Marker,DecreasedSerumPotassiumLevels,47
+Body_Organ,AdrenalGland,47
+Medical_Condition,Aldosterone-ProducingTumor,47
+ORGAN,Heart,48
+PROCEDURE,autopsy,48
+PROCEDURE,surgical procedure,48
+SYMPTOM,symptoms,48
+CHOICE,Correct Choice,48
+ORGAN_NAME,Heart,49
+ORGAN_PART,Left Ventricle,49
+MEDICAL_CONDITION,Left Ventricular Hypertrophy,49
+ORGAN_PART,Cavity of the left ventricle,49
+ORGAN_PART,Cardiac chambers,49
+MEDICAL_CONDITION,Hypertrophy of the left ventricular wall,49
+MEDICAL_PROCEDURE,Echocardiographic,50
+ORGAN,Heart,50
+MEDICAL_CONDITION,Valvular lesions,50
+BIOLOGICAL_STRUCTURE,Valves,50
+ORGAN,small artery,51
+PATHOLOGY,calcification,51
+ORGAN,Thyroid,51
+PATHOLOGY,nodule,51
+PATHOLOGY,changes,51
+CONDITION,condition,51
+ORGAN,medium-sized vessels,51
+AGE_GROUP,adults,51
+ORGAN,Heart,52
+ORGAN_PART,chambers,52
+ORGAN_PART,valves,52
+CONDITION,thickening or deformation,52
+ORGAN_PART,mitral valve,52
+CLINICAL_FINDING,mid-systolic click,52
+CONDITION,mitral valve prolapse,52
+ORGAN,Myocardial tissue,53
+CHEMICAL_COMPOUND,Congo red,53
+PHENOMENON,Green birefringence,53
+COMPOUND,Amyloid deposits,53
+EQUIPMENT,Polarized light microscopy,53
+BODY_PART,myocardial tissue,54
+CONDITION,damage,54
+CONDITION,alteration,54
+BODY_PART,muscle fibers,54
+CONDITION,disrupted,54
+CONDITION,inflammatory response,54
+CELL_TYPE,infiltrating cells,54
+CONDITION,myocardial injury,54
+CONDITION,infarction,54
+SYMPTOM,dyspnea,54
+SYMPTOM,lethargy,54
+CONDITION,cardiovascular issues,54
+TEST,cardiac biomarker,54
+CONDITION,acute myocardial injury,54
+BODY_PART,adrenal gland,55
+CONDITION,mass,55
+BODY_PART,adrenal tissue,55
+ORGAN,Thyroid,56
+ORGAN_TISSUE,Thyroid tissue,56
+CELL_TYPE,cellular follicular pattern,56
+CELL_COMPONENT,colloid,56
+CELL_TYPE,cuboidal epithelium,56
+CONDITION,hyperactive thyroid gland,56
+OBJECT,TissueSamples,57
+COLOR,Reddish-Brown,57
+OBJECT,Background,57
+COLOR,Blue,57
+OBJECT,MetricRuler,57
+MEASUREMENT,2Centimeters,57
+ORGAN,Thyroid,58
+LESSON,Nodule,58
+STRUCTURE,Follicular structures,58
+SUBSTANCE,Colloid material,58
+STRUCTURE,Psammoma body,58
+DISEASE,Thyroid neoplasm,58
+ORGAN,adrenal glands,59
+CONDITION,hemorrhage,59
+CONDITION,necrosis,59
+CELL_COMPONENT,cytoplasmic bodies,60
+CELL_COMPONENT,nuclei,60
+MEDICAL_PROCEDURE,hematoxylin and eosin staining,60
+CELL_COMPONENT,cells,60
+BIOLOGICAL_STRUCTURE,glandular spaces,60
+CELL_COMPONENT,cellular morphology,60
+CELL_COMPONENT,nuclei,60
+BIOLOGICAL_STRUCTURE,stromal component,60
+ANATOMICAL_STRUCTURE,hypothalamus,60
+MEDICAL_CONDITION,diagnosis,60
+MEDICAL_CONDITION,the condition,60
+MEDICAL_PROCEDURE,mass excised,60
+MEDICAL_CONDITION,gastric ulcer,61
+BODY_PART,tissue,61
+BODY_PART,cells,61
+BODY_PART,glandular or duct-like formations,61
+MEDICAL_CONDITION,pathological change,61
+MEDICAL_CONDITION,hypercalcemia,61
+BLOOD_COMPONENT,serum calcium,61
+MEDICAL_CONDITION,nephrolithiasis,61
+BODY_PART,kidney stones,61
+ORGAN,Tissue,62
+ORGAN,Pancreatic Tissue,62
+ORGAN_PART,Islets of Langerhans,62
+HORMONE,Insulin,62
+CONDITION,Disorganization,62
+POSSIBLE_CONDITION,Pathological Changes,62
