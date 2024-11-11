@@ -32,11 +32,6 @@ pip install openai pandas requests python-dotenv seaborn matplotlib networkx
 # Clone the repository
 git clone https://github.com/dimitris1pana/COGNET-MD-XREQ.git
 
-# Navigate to the project directory
-cd yourproject
-
-# Install dependencies
-npm install
 ```
 
 ## Usage
